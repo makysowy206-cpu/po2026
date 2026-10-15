@@ -1,4 +1,4 @@
-package Laboratorium1;
+package agh.po.lab1;
 
 public class ChoinkaVal{
 	public static void main(String[] args) {
